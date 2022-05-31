@@ -1,0 +1,190 @@
+@media screen and (max-width:320px)
+{
+
+    .phone
+    {
+        margin-left: 80px!important;
+        font-size: 13px;
+    }
+.login
+{
+    font-size: 13px;
+    margin-left: 1px!important;
+}
+*
+{
+    overflow-x: hidden;
+}
+.contentSector h2
+{
+    /* display: none; */
+    font-size: 25px!important;
+    text-align: center;
+}
+.contentSector .btnContent
+{
+    font-size: 12px!important;
+  
+    margin-left: 80px;
+    margin-bottom: 20px!important;
+ 
+}
+#sectionForm
+{
+    padding: 20px;
+}
+
+/* <!-- :::RECENT PROPERTIES --> */
+
+#headerInform h2
+{
+/* display: none; */font-size: 20px;
+   text-align: center;
+}
+
+
+.container-fluid  {
+    overflow-x: hidden;
+    width: 200%;
+    padding-right: -20px!important;
+    padding-left: 0px!important;
+    margin-right: 12px!important;
+    margin-left: -52px!important;
+/* <!-- :::RECENT PROPERTIES --> */
+}
+.card-body
+{
+    margin-right: 38px!important;
+}
+/* <!-- :::RECENT PROPERTIES --> */
+
+/* <!-- ::TESTIMONALS:: --> */
+
+#testmonials {
+    padding: 0px;
+    width: 100%;
+    margin-top: 20px;
+    min-height: 80vh;
+    
+}
+.message
+{
+    font-size: 19px;
+}
+.mes p
+{
+    font-size: 15px;
+}
+.btn-success {
+    color: #fff;
+    background-color: #28a745;
+    border-color: #28a745;
+    font-size: 12px!important;
+}
+/* <!-- ::TESTIMONALS:: --> */
+
+/* ::FOTER:: */
+.col-md-12.footerDetails {
+    text-align: center;
+    font-size: 13px;
+}
+.text-left {
+    text-align: center!important;
+}
+}
+
+@media screen and (max-width:320px)
+{
+
+    .phone
+    {
+        margin-left: 80px!important;
+        font-size: 13px;
+    }
+ 
+.login
+{
+    font-size: 13px;
+    margin-left: 1px!important;
+}
+*
+{
+    overflow-x: hidden;
+}
+.contentSector h2
+{
+    /* display: none; */
+    font-size: 25px!important;
+    text-align: center;
+}
+.contentSector .btnContent
+{
+    font-size: 12px!important;
+  
+    margin-left: 80px;
+    margin-bottom: 20px!important;
+ 
+}
+#sectionForm
+{
+    padding: 20px;
+}
+
+/* <!-- :::RECENT PROPERTIES --> */
+
+#headerInform h2
+{
+/* display: none; */font-size: 20px;
+   text-align: center;
+}
+
+
+.container-fluid  {
+    overflow-x: hidden;
+    width: 200%;
+    padding-right: -20px!important;
+    padding-left: 0px!important;
+    margin-right: 12px!important;
+    margin-left: -52px!important;
+/* <!-- :::RECENT PROPERTIES --> */
+}
+.card-body
+{
+    margin-right: 38px!important;
+}
+/* <!-- :::RECENT PROPERTIES --> */
+
+/* <!-- ::TESTIMONALS:: --> */
+
+#testmonials {
+    padding: 0px;
+    width: 100%;
+    margin-top: 20px;
+    min-height: 80vh;
+    
+}
+.message
+{
+    font-size: 19px;
+}
+.mes p
+{
+    font-size: 15px;
+}
+.btn-success {
+    color: #fff;
+    background-color: #28a745;
+    border-color: #28a745;
+    font-size: 12px!important;
+}
+/* <!-- ::TESTIMONALS:: --> */
+
+/* ::FOTER:: */
+.col-md-12.footerDetails {
+    text-align: center;
+    font-size: 13px;
+}
+.text-left {
+    text-align: center!important;
+}
+}
